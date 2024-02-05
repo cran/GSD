@@ -1,0 +1,15 @@
+682c9f18860d8304fb7c9b093981b46e *DESCRIPTION
+42cc0749f45b492b0f90d488700e9f9c *NAMESPACE
+73634ee611fb94a3bc5785d31b837d45 *R/GSD_functions.R
+8faf250d78a120ba4c7ea2186efddd24 *build/partial.rdb
+fd16eeab22d36000f22b9f136d8d7e83 *data/gsubway.rda
+9ef0b1f76cfd72d36e65a9c9843139a0 *man/adjmatrix.Rd
+64d4b969fc4592bdcb75a33d0a3ff8e1 *man/gextrema.Rd
+40d7295394f0cd2a23caedb4b2303eb7 *man/gfdecomp.Rd
+7948ad7e3325a8a6581aff336d9af1e6 *man/gftplot.Rd
+46d181eb7754fa25d1132edbee706180 *man/ginterpolating.Rd
+5df70d6963b7744ae2326f946357f081 *man/gplot.Rd
+317118fb61aebba0b0fc752794a14ea1 *man/gsignal.Rd
+1985757f2dca126ed8a13b669238929c *man/gsmoothing.Rd
+bafb0d3ea973a1bb1347b41c8a0cd4f8 *man/gsubway.Rd
+665b5eeca93fb449bdb56a62ee14d831 *man/sgemd.Rd
